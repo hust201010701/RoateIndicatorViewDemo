@@ -129,6 +129,8 @@
 
 具体使用代码可以参考：[MainActivity.java](https://github.com/hust201010701/RoateIndicatorViewDemo/blob/master/app/src/main/java/com/orzangleli/rotateindicatorviewdemo/MainActivity.java)
 
+相关技术剖析在我的博客上： [http://www.orzangleli.com/2016/11/10/2016-11-19_%E8%BD%AC%E8%BD%ACIndicator/](http://www.orzangleli.com/2016/11/10/2016-11-19_%E8%BD%AC%E8%BD%ACIndicator/)
+
 ## MIT License
 
 Copyright (c) 2017 orzangleli
