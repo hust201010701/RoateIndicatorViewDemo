@@ -12,9 +12,9 @@
 
 动态效果：
 
-![](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_35_40_2.gif)   
-![ 图片显示不完整？](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_35_40_2.gif)
+![](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_35_40_2.gif)  
 
+[显示完整图片](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_35_40_2.gif)
 ## 接入
 
 [![](https://jitpack.io/v/hust201010701/RoateIndicatorViewDemo.svg)](https://jitpack.io/#hust201010701/RoateIndicatorViewDemo)
