@@ -1,7 +1,6 @@
 # :bus:RoateIndicatorViewDemo
 高仿转转APP首页banner的指示器控件
 
-
 ## 简介
 
 图片轮播指示器网络上有很多种，大部分是一些相邻间隔点，转转APP中给出了一种新的思路，本项目模仿转转APP将指示器封装成一个库，方便第三方应用使用。
@@ -13,8 +12,8 @@
 
 动态效果：
 
-![](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_02_51_2.gif)
-
+![](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_35_40_2.gif)   
+![ 图片显示不完整？](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-10_20_35_40_2.gif)
 
 ## 接入
 
