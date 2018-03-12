@@ -37,7 +37,7 @@
 	### Step 2. Add the dependency
 	
 		dependencies {
-			compile 'com.github.User:Repo:Tag'
+			compile 'com.github.hust201010701:RoateIndicatorViewDemo:-1a2c1a2412-1'
 		}
 	
 
